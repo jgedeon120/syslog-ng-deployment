@@ -1,4 +1,4 @@
-# Syslog-ng Depolyment
+# Syslog-ng Deployment
 
 ## Basic Install Notes:
 On Ubuntu 16.04:
