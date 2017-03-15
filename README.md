@@ -14,6 +14,7 @@ Reload syslog-ng and check for errors or conflicts:
 ```systemctl reload syslog-ng
 tail /var/log/syslog```
 
+
 ## Config Files
 The following are global or default config files for syslog-ng-deployment.
 
